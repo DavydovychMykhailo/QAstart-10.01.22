@@ -1,0 +1,63 @@
+.target {
+    background: #ffc850;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: #252222 10px 10px 1px 4px;
+    margin-bottom: 50px;
+}
+
+div {
+    color: aliceblue;
+}
+
+.target1 {
+    background: #ffc850;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: #252222 10px 10px 5px 4px;
+    margin-bottom: 50px;
+}
+
+.target2 {
+    background: #ffc850;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: #252222 17px 17px 5px 5px;
+    margin-bottom: 50px;
+
+}
+.target3{
+    background: #ffc850;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: gray 17px 17px 5px 5px;
+    margin-bottom: 50px;
+}
+.target4{
+    background: #ffc850;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: #3b3b3b 15px 15px 5px 5px;
+    margin-bottom: 50px;
+    border-radius: 3%;
+}
+.target5{
+    background: #ffc850;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5%;
+    box-shadow: gray 15px 15px 5px 5px;
+    margin-bottom: 50px;
+    border-radius: 3%;
+}
