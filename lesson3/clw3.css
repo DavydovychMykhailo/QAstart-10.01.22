@@ -1,0 +1,67 @@
+.widgets {
+    display: flex;
+}
+
+
+.a {
+    background: cornflowerblue;
+    width: 300px;
+    height: 400px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+    border: 3px;
+}
+
+.b {
+    background: cornflowerblue;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+    border: 3px;
+
+
+}
+
+.c {
+    background: cornflowerblue;
+    width: 620px;
+    height: 300px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+    border: 3px;
+}
+
+.paps {
+    display: flex;
+
+}
+
+.f {
+    background: blue;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-right: 10px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    display: flex;
+    border-radius: 10px;
+    border: 3px;
+}
+
+
+
+
