@@ -1,0 +1,49 @@
+.wrap{
+    display: flex;
+}
+.pap{
+    display: flex;
+}
+.h230{
+    height: 230px;
+}
+.w150{
+    width: 150px;
+}
+.h200{
+    height: 200px;
+}
+.w500{
+    width: 500px;
+}
+.h400{
+    height: 400px;
+}
+.w498{
+    width: 498px;
+}
+.bg-c{
+    background: cornflowerblue;
+}
+.bg-b{
+    background: blue;
+}
+.m-t20{
+    margin-top: 20px;
+}
+.m-r25{
+    margin-right: 25px;
+}
+.brd{
+    border: 3px;
+    border-radius: 10px;
+}
+.ds{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.cl{
+    color: white;
+}

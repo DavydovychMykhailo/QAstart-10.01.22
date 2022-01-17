@@ -9,7 +9,6 @@
 }
 
 
-
 .target1 {
     background: #ffc850;
     height: 50px;
@@ -30,7 +29,8 @@
     margin-bottom: 50px;
 
 }
-.target3{
+
+.target3 {
     background: #ffc850;
     height: 50px;
     width: 50px;
@@ -39,7 +39,8 @@
     box-shadow: gray 17px 17px 5px 5px;
     margin-bottom: 50px;
 }
-.target4{
+
+.target4 {
     background: #ffc850;
     height: 50px;
     width: 50px;
@@ -49,7 +50,8 @@
     margin-bottom: 50px;
     border-radius: 3%;
 }
-.target5{
+
+.target5 {
     background: #ffc850;
     height: 50px;
     width: 50px;
