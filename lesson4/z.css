@@ -1,0 +1,95 @@
+body{
+    background: #ced8e1;
+
+}
+.file1{
+    padding: 2%;
+
+}
+.h1{
+    margin-left: 30px;
+}
+
+.h170{
+    height: 170px;
+}
+.h200{
+    height: 200px;
+}
+.h500{
+    height: 500px;
+}
+.w200{
+    width: 200px;
+}
+.w800{
+    width: 800px;
+}
+.w1000{
+    width: 1000px;
+}
+.bg1{
+    background: #122d40;
+}
+.bg2{
+    background: #ced8e1;
+}
+.mr-l110{
+    margin-left: 110px;
+}
+.mr-l55{
+    margin-left: 55px;
+}
+.m-r20{
+    margin-right: 20px;
+}
+.m-r10{
+    margin-right: 10px;
+}
+.m-t-10{
+    margin-top: -10px;
+}
+.m-t10{
+    margin-top: 10px;
+}
+.mt15{
+    margin-top: 15px;
+}
+.mt120{
+    margin-top: 120px;
+}
+.m-b20{
+    margin-bottom: 20px;
+}
+.b-r20{
+    border-radius: 20px;
+}
+.df{
+    display: flex;
+}
+.t-c{
+    text-align: center;
+    align-items: center;
+    margin-right: 20px;
+    justify-content: space-between;
+}
+.t-c1{
+    justify-content: space-evenly;
+}
+.bo-r{
+    border: 3px solid aqua;
+}
+.bor-r{
+    border-radius:  50%;
+}
+.tex-cw{
+    color: white;
+}
+.a1{
+    border-radius: 3px;
+    border: 3px solid aqua;
+    width: 300px;
+
+}
+
+
