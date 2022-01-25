@@ -3,9 +3,6 @@
     margin: 0;
     padding: 0;
 }
-header{
-
-}
 
 :root {
     --black-color: #000;
@@ -141,7 +138,8 @@ header{
     margin-top: 38px;
 }
 .vec{
-    margin-top: 85px;
+    margin-top: -135px;
+
 }
 .vector1{
     justify-content: center;
@@ -170,6 +168,7 @@ header{
     align-items: center;
     display: flex;
     flex-direction: column;
+    margin-bottom: 192px;
 }
 .text2{
     width: 547px;
@@ -178,10 +177,24 @@ header{
     color: #0B2330;
     margin-top: 189px;
     margin-bottom: 59px;
-
-
+}
+.bgs{
+    width: 1376px;
+    height: 494px;
+    background: #51CEBC;
+    border-radius: 10px;
+    margin-left: 32px;
+    box-sizing: content-box;
+}
+.velos{
+    width: 178px;
+    height: 282px;
 
 }
 
+header{
+    background: #a1a1a1;
+
+}
 
 
