@@ -168,8 +168,6 @@ margin-top: 56px;
     width: 557px;
     right: 0.89%;
     top: -1px;
-
-
     font-size: 34px;
     line-height: 40px;
     color: #0B2330;
@@ -214,26 +212,4 @@ margin-top: 56px;
     margin-top: 113px;
     margin-left: 638px;
     margin-bottom: 160px;
-}
-.targets{
-}
-.pbg{
-    height: 537px;
-    width: 1260px;
-    background: #BD78F0;
-    border-radius: 10px;
-    margin-left: 148px;
-    margin-bottom: 173px;
-    position: absolute;
-}
-.wfwy{
-
-}
-
-
-
-
-
-.header{
-    background: bisque;
 }
