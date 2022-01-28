@@ -4,16 +4,10 @@
     padding: 0;
 }
 
-:root {
-    --black-color: #000;
-}
-
 .wrapper {
     max-width: 1440px;
     margin: 0 auto;
-
 }
-
 .top-bar {
     height: 83px;
     display: flex;
@@ -21,42 +15,31 @@
     margin-left: 36px;
     margin-top: 16px;
 }
-
 .spring-logo {
     display: flex;
     margin: 10px;
 }
-
-
 .nav-menu {
     align-items: center;
     display: flex;
-
-
 }
-
 .nav-menu a {
     align-items: center;
     column-gap: 10px;
     text-decoration: none;
-    color: #000;
+    color: #0B2330;
     font-size: 16px;
-
-
 }
-
 .nav-menu-item a {
     font-size: 16px;
     line-height: 24px;
-    color: var(--black-color);
-
+    color: #0B2330;
 }
 .item{
     display: flex;
     column-gap: 56px;
     margin-right: 190px;
 }
-
 .btn1 {
     height: 54px;
     width: 163px;
@@ -67,7 +50,6 @@
     color: white;
     cursor: pointer;
     margin-right: 32px;
-
 }
 .btn2{
     display: flex;
@@ -81,7 +63,6 @@
     margin-left: 147px;
 }
 .head-title{
-
     font-style: normal;
     font-weight: normal;
     height: 256px;
@@ -98,7 +79,6 @@
     font-size: 22px;
     line-height: 32px;
     color: #375361;
-
 }
 .head-image{
     margin-top: -100px;
@@ -110,19 +90,16 @@
     margin-left: -148px;
     position: absolute;
 }
-
 .butt1{
     height: 54px;
     width: 163px;
-    background: #f9c602;
-    border: 1px solid #0B2330;
+    background: #F9C600;
+    border: 1px solid #F9C600;
     box-sizing: border-box;
     border-radius: 4px;
-    color: #000;
+    color: #0B2330;
     cursor: pointer;
     margin-right: 32px;
-
-
 }
 .butt2{
     height: 54px;
@@ -130,7 +107,7 @@
     border: 1px solid #0B2330;
     box-sizing: border-box;
     border-radius: 4px;
-    color: #000;
+    color: #0B2330;
     cursor: pointer;
     margin-right: 32px;
 }
@@ -139,19 +116,16 @@
 }
 .vec{
     margin-top: -135px;
-
 }
 .vector1{
     justify-content: center;
     align-items: center;
     display: flex;
-
 }
 .vector2{
     justify-content: center;
     align-items: center;
     display: flex;
-
 }
 .vector3{
     justify-content: center;
@@ -184,17 +158,82 @@
     background: #51CEBC;
     border-radius: 10px;
     margin-left: 32px;
-    box-sizing: content-box;
+    display: flex;
 }
 .velos{
-    width: 178px;
-    height: 282px;
+margin-top: 56px;
+}
+.veltex{
+    height: 120px;
+    width: 557px;
+    right: 0.89%;
+    top: -1px;
+
+
+    font-size: 34px;
+    line-height: 40px;
+    color: #0B2330;
+    margin-top: 114px;
+}
+.unveltex{
+    height: 64px;
+    width: 533px;
+    right: 5.16%;
+    top: 2px;
+    font-size: 22px;
+    line-height: 32px;
+    color: #0B2330;
+    margin-top: 35px;
+}
+.odos{
+    margin-top: 191px;
+}
+.txtt{
+    width: 711px;
+    height: 80px;
+    font-size: 34px;
+    line-height: 40px;
+    color: #0B2330;
+    justify-content: center;
+    margin-left: 365px;
+}
+.odf{
+    height: 528px;
+    margin-left: 265px;
+    margin-top: 57px;
+}
+.butt11{
+    height: 54px;
+    width: 163px;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: #0B2330;
+    cursor: pointer;
+    margin-top: 113px;
+    margin-left: 638px;
+    margin-bottom: 160px;
+}
+.targets{
+}
+.pbg{
+    height: 537px;
+    width: 1260px;
+    background: #BD78F0;
+    border-radius: 10px;
+    margin-left: 148px;
+    margin-bottom: 173px;
+    position: absolute;
+}
+.wfwy{
 
 }
 
-header{
-    background: #a1a1a1;
 
+
+
+
+.header{
+    background: bisque;
 }
-
-
